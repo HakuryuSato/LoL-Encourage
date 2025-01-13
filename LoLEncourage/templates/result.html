@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>LoL Result</title>
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7548427713568683"
+    crossorigin="anonymous"></script>
+
+  <!-- https://animate.style/ -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
+
+  <style>
+    body {
+      background-image: url("{{ data.image_path }}");
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: white;
+      overflow: hidden;
+    }
+
+    .center-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+
+    }
+
+    .center-container h1 {
+      font-family: 'Arial Black', Gadget, sans-serif;
+      font-size: 8vw;
+      color: white;
+      text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    }
+
+    .center-container h2 {
+      font-family: 'Arial Black', Gadget, sans-serif;
+      font-size: 2vw;
+      color: white;
+      text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    }
+
+    .delay {
+      animation-delay: 1s;
+    }
+
+    .footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      /* background-color: #333; */
+      color: #ffffff;
+      text-align: center;
+      padding: 10px;
+      opacity: 0.5;
+    }
+  </style>
+
+</head>
+
+<body>
+
+
+  <div class="center-container">
+    <h1 class="animate__animated animate__fadeIn">{{ data.result_title }}</h1>
+    <h2 class="animate__animated animate__fadeIn delay">{{ data.result_text }}</h2>
+  </div>
+
+
+  <div class="footer">
+    LoLEncourage isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone
+    officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are
+    trademarks or registered trademarks of Riot Games, Inc.
+  </div>
+
+</body>
+
+</html>

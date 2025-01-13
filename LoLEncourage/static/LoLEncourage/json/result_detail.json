@@ -1,0 +1,174 @@
+{
+    "kills": {
+        "title": "戦場の死神",
+        "description": "敵をキルしました"
+    },
+    "assists": {
+        "title": "連携の神",
+        "description": "味方のキルをアシストしました"
+    },
+    "totalDamageDealtToChampions": {
+        "title": "崩壊の嵐",
+        "description": "総合的なダメージを与えました"
+    },
+    "physicalDamageDealtToChampions": {
+        "title": "物理の猛襲者",
+        "description": "物理ダメージを与えました"
+    },
+    "magicDamageDealtToChampions": {
+        "title": "魔法の狂詠者",
+        "description": "魔法ダメージを与えました"
+    },
+    "trueDamageDealtToChampions": {
+        "title": "確定の絶対者",
+        "description": "確定ダメージを与えました"
+    },
+    "totalDamageTaken": {
+        "title": "無敵の防壁",
+        "description": "敵からダメージをタンクしました"
+    },
+    "physicalDamageTaken": {
+        "title": "剛硬の守り手",
+        "description": "物理ダメージをタンクしました"
+    },
+    "magicDamageTaken": {
+        "title": "魔法の防壁舞者",
+        "description": "魔法ダメージをタンクしました"
+    },
+    "trueDamageTaken": {
+        "title": "運命の防護神",
+        "description": "確定ダメージをタンクしました"
+    },
+    "damageSelfMitigated": {
+        "title": "減衰の加護者",
+        "description": "敵から自分へのダメージを軽減しました"
+    },
+    "totalTimeCCDealt": {
+        "title": "無尽の封印師",
+        "description": "敵に長くCCを与え続けました"
+    },
+    "totalDamageShieldedOnTeammates": {
+        "title": "無尽の庇護者",
+        "description": "味方をシールドで守りました"
+    },
+    "objectivesStolen": {
+        "title": "奪還の巧者",
+        "description": "オブジェクトをスティールしました"
+    },
+    "objectivesStolenAssists": {
+        "title": "影の奪還連携使",
+        "description": "オブジェクトのスティールを補佐しました"
+    },
+    "baronKills": {
+        "title": "覇蛇の終焉を呼ぶ者",
+        "description": "バロンを倒しました"
+    },
+    "dragonKills": {
+        "title": "竜帝の滅殺者",
+        "description": "ドラゴンを倒しました"
+    },
+    "turretKills": {
+        "title": "城塞の陥落者",
+        "description": "タワーを破壊しました"
+    },
+    "damageDealtToBuildings": {
+        "title": "構造の破砕使",
+        "description": "建築物へのダメージを与えました"
+    },
+    "damageDealtToObjectives": {
+        "title": "物体の制圧者",
+        "description": "オブジェクトへのダメージを与えました"
+    },
+    "damageDealtToTurrets": {
+        "title": "塔の破壊者",
+        "description": "タワーへダメージを与えました"
+    },
+    "visionScore": {
+        "title": "明示の覇者",
+        "description": "視界スコアを獲得しました"
+    },
+    "wardsKilled": {
+        "title": "不可視の制圧者",
+        "description": "ワードを破壊しました"
+    },
+    "wardsPlaced": {
+        "title": "見えざる番人",
+        "description": "ワードを設置しました"
+    },
+    "detectorWardsPlaced": {
+        "title": "支配の印を刻む者",
+        "description": "コントロールワードを設置しました"
+    },
+    "visionWardsBoughtInGame": {
+        "title": "光明の投資者",
+        "description": "ワードを購入しました"
+    },
+    "onMyWayPings": {
+        "title": "踏み出す者",
+        "description": "「向かいます」ピンを打ちました"
+    },
+    "enemyMissingPings": {
+        "title": "疑問の旅人",
+        "description": "「？」ピンを打ちました"
+    },
+    "enemyVisionPings": {
+        "title": "視線の番人",
+        "description": "「敵の視界！」ピンを打ちました"
+    },
+    "getBackPings": {
+        "title": "撤退の指揮者",
+        "description": "「退却！」ピンを打ちました"
+    },
+    "allInPings": {
+        "title": "総力の先頭指揮者",
+        "description": "「オールイン！」ピンを打ちました"
+    },
+    "dangerPings": {
+        "title": "未知の脅威を知る者",
+        "description": "「危険！」ピンを打ちました"
+    },
+    "needVisionPings": {
+        "title": "運命を操る者",
+        "description": "「視界が必要！」ピンを打ちました"
+    },
+    "baitPings": {
+        "title": "欺く巧妙者",
+        "description": "「ベイト！」ピンを打ちました"
+    },
+    "assistMePings": {
+        "title": "助けを求める者",
+        "description": "「手伝って！」ピンを打ちました"
+    },
+    "pushPings": {
+        "title": "進撃の鼓動者",
+        "description": "「プッシュ！」ピンを打ちました"
+    },
+    "goldSpent": {
+        "title": "富の遣い手",
+        "description": "ゴールドを消費しました"
+    },
+    "sightWardsBoughtInGame": {
+        "title": "明示視界の投資家",
+        "description": "ワードを購入しました"
+    },
+    "consumablesPurchased": {
+        "title": "持続可能な冒険者",
+        "description": "消耗品を購入しました"
+    },
+    "itemsPurchased": {
+        "title": "異界の武具収集家",
+        "description": "数多くアイテムを購入しました"
+    },
+    "deaths": {
+        "title": "冥府への門戸を開く者",
+        "description": "死にました。 すみません、これ以外見つけられませんでした。"
+    },
+    "totalTimeSpentDead": {
+        "title": "灰の時空を覗く者",
+        "description": "灰色の画面を見ていました"
+    },
+    "null": {
+        "title": "平穏なる夢の主",
+        "description": "何もしていませんでした"
+    }
+}
